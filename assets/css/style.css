@@ -1,3 +1,5 @@
-img{
-  background-image: url("assets/image/P031210_16.20.jpg");
+body{
+  background-image: url("../image/P031210_16.20.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
